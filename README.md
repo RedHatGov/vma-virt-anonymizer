@@ -2,6 +2,8 @@
 
 A tool to anonymize sensitive data in [RVTools](https://www.dell.com/en-us/shop/vmware/sl/rvtools) VMware infrastructure exports while preserving data structure and integrity for safe sharing with vendors and partners.
 
+This tool is part of the [Red Hat Virtualization Migration Assessment](https://www.redhat.com/en/resources/virtualization-migration-assessment-datasheet) service offering, which helps organizations plan and execute strategic migrations from traditional virtualization platforms to Red Hat OpenShift.
+
 ## Overview
 
 When sharing RVTools exports externally, you may need to remove identifying information such as:
